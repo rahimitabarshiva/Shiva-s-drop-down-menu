@@ -10,7 +10,7 @@ a list of choices on a computer screen 💻 🖥️
 
 - Developed by Shiva Rahimitabar
 
-- Created - 2024-10-26
+- Created - 2024-10-12
 
 - Technologies Used - Html , css
 
